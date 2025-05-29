@@ -45,3 +45,7 @@ HR-Attrition-Risk-Dashboard/
 │   └── risk_analysis_dashboard.png
 ├── data/
 │   └── Employee_Data.csv
+## 📬 Contact  
+**Author**: Sripathi Chandu  
+📧 Email: sripathichandu5@gmail.com
+🔗 LinkedIn: [linkedin.com/in/sripathichandu]
